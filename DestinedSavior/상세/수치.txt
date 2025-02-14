@@ -1,0 +1,13 @@
+상세 수치
+
+Terrain
+Width: 700
+Length: 500
+Height:300
+
+마을
+X: 200
+Y: 1
+Z: 150
+Height: 20
+

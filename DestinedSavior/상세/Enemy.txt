@@ -1,0 +1,25 @@
+제일 위험 구역 몬스터(약간 무서운 몬스터)
+불독 : https://assetstore.unity.com/packages/3d/characters/creatures/stylized-devil-bulldog-lite-version-192198
+사족보행, 뿔로 들이받는 공격(애니메이션이 있음)
+-- : 
+공격모션 1개
+
+
+일반 위험 구역 몬스터(귀여운 몬스터)
+버섯 : https://assetstore.unity.com/packages/3d/characters/creatures/fantasy-mushroom-mon-115406
+콩콩 뛰어다님, 박치기 공격(애니메이션 있음), 애니메이터 없어서 해야함(졔가 할수있음)
+토끼 : https://assetstore.unity.com/packages/3d/characters/slime-rabbit-144436
+콩콩 뛰어다님, 애니메이션은 없으나 박치기 공격이 나은듯함, 애니메이터 있음
+
+
+마을 내 몬스터(인간형) - 이족보행
+(일단 완전히 확정아니기도 하고 마을 좀 나중에 만들거라..)
+하급 관리(깡패) : 믹사모 drake
+휘두르는 공격(zombie attack)
+상급 관리(모파안) : 미정
+
+모파안 쫄따구 : 믹사모 Skeletonzombie T Avelange
+휘두르는 공격(standing Melee Attack)
+
+
+
